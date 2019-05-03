@@ -1,33 +1,37 @@
-# Project Title
+turtlesWoComments_revised.py
 
-One Paragraph of project description goes here
+This project introduces a simple Python code that uses the turtle module to draw a diagram.The project aims to teach you where to 
+to place in the appropriate places.
+
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+These instructions will tell you how to run this .py file on your local machine for experimentation.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+turtlesWoComments_revised requires Python. The instructions below will install the prerequisites.
 
 ```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
+Check if Python is installed:
+	In the search bar in Windows type CMD and click the command prompt icon. 
+	Type Python after the prompt and click enter.
+go to https://www.python.org/downloads/ to download and install the latest version
 ```
 
 ## Running
-Once installed you can run the program with the following command
+Once installed you can run the program the following way
 
 ```
-python demo.py
+double click the .py file and open with selected app
+in pycharm select file open and choose file.
 ```
 
 Add any additional ways to run the program below
-
+in pycharm select file open and choose file.
 ```
-python demo.py test.txt
+
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank you to the Python CNA class for this project and the github community for allowing me to make it available to you.
