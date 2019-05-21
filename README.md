@@ -1,28 +1,13 @@
-###### master
+
 # Project Title pyhton 
 The squirrels in Palo Alto spend most of the day playing depand on the weather 
 when you enter the how hot is the weather in number it will tell you squirrels is playing if not boolean True or False
 
 The squirrels in Palo Alto spend most of the day playing. In particular, they play if the temperature is between 60 and 90 (inclusive). Unless it is summer, then the upper limit is 100 instead of 90. Given an int temperature and a boolean is_summer, return True if the squirrels play and False otherwise.
-=======
-turtlesWoComments_revised.py
 
-This project introduces a simple Python code that uses the turtle module to draw a diagram.The project aims to teach you where to 
-to place in the appropriate places.
-
- master
-
-
- master
 squirrel_play(70, False) → True
 squirrel_play(95, False) → False
 squirrel_play(95, True) → True
-=======
-These instructions will tell you how to run this .py file on your local machine for experimentation.
- master
-
-
- master
 
 
 
@@ -64,10 +49,6 @@ def near_ten(num):
                    return False
 
 
-
-=======
-turtlesWoComments_revised requires Python. The instructions below will install the prerequisites.
-
 ```
 Check if Python is installed:
 	In the search bar in Windows type CMD and click the command prompt icon. 
@@ -84,22 +65,8 @@ double click the .py file and open with selected app
 in pycharm select file open and choose file.
 ```
 
-######Add any additional ways to run the program below
- master
-     paycharm 
-
 ``` https://repl.it/languages/python3 (Links to an external site.)Links to an external site.python demo.py test.txt
 ```
 
 ## Thanks Zack
 
-
-=======
-in pycharm select file open and choose file.
-```
-
-```
-
-## Thanks
-Thank you to the Python CNA class for this project and the github community for allowing me to make it available to you.
- master
